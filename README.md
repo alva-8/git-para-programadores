@@ -1,2 +1,2 @@
 # git-para-programadores
-prueba de repositorio
+prueba de repositorio..
